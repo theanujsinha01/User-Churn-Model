@@ -1,6 +1,5 @@
 # User-Churn-Model
-# Define the content of the README.md
-readme_content = """
+
 # Predicting User Churn for an E-commerce Platform
 
 ## Project Overview
